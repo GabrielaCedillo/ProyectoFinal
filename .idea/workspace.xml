@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f82db1f-5e3a-43f7-b485-6a2486aad66a" name="Changes" comment="Third commit" />
+    <list default="true" id="2f82db1f-5e3a-43f7-b485-6a2486aad66a" name="Changes" comment="Ejercicio2 First Commit">
+      <change afterPath="$PROJECT_DIR$/Ejercicio3/Ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +50,17 @@
     "Python.E1FuerzaBruta.executor": "Run",
     "Python.E1RamificacionYPoda.executor": "Run",
     "Python.Ejercicio1.executor": "Run",
+    "Python.Ejercicio2.executor": "Run",
+    "Python.Ejercicio3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\ProyectoFinal\Ejercicio1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,12 +93,38 @@
       <option name="project" value="LOCAL" />
       <updated>1732253518026</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1732253544479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732253544479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactor commit">
+      <option name="closed" value="true" />
+      <created>1732253791344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732253791344</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ejercicio2 First Commit">
+      <option name="closed" value="true" />
+      <created>1732253913679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732253913679</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+    <MESSAGE value="Refactor commit" />
+    <MESSAGE value="Ejercicio2 First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio2 First Commit" />
   </component>
 </project>

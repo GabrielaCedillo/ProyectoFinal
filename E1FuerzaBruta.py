@@ -64,7 +64,6 @@ def caminos_posibles_fuerza_bruta(m, n):
 
     return caminos
 
-
 # Ejemplo de uso
 m, n = 11, 7  # Tablero de 11 filas x 7 columnas
 resultados = caminos_posibles_fuerza_bruta(m, n)

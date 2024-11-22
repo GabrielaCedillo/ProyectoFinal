@@ -1,7 +1,7 @@
 # Proyecto Final 
-Proyecto final de la Materia de Diseño y Análisis de Algoritmos...
-...FES Aragón...
-...Ingeniería en computación 
+Proyecto final de la Materia de Diseño y Análisis de Algoritmos<br />.
+FES Aragón<br />.
+Ingeniería en computación 
 
 
 ## ✔️:Tecnologias Utilizadas

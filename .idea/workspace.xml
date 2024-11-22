@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f82db1f-5e3a-43f7-b485-6a2486aad66a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1.py" afterDir="false" />
+    <list default="true" id="2f82db1f-5e3a-43f7-b485-6a2486aad66a" name="Changes" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/E1FuerzaBruta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GabrielaCedillo"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/GabrielaCedillo/ProyectoFinal.git",
@@ -40,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.E1FuerzaBruta.executor": "Run",
+    "Python.E1RamificacionYPoda.executor": "Run",
     "Python.Ejercicio1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -61,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732249994042</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1732251851312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732251851312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
